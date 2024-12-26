@@ -1,0 +1,4 @@
+this is the test file for using git repositoy - h
+new test -h
+이거 왜 안돼!
+
